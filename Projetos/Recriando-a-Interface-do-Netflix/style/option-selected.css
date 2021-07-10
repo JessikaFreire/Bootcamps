@@ -1,0 +1,135 @@
+:root{
+    --vermelho: #E50914;
+    --preta: #000000;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Elementos Base*/
+body{
+    background: var(--preta);
+    font-family: 'Arial', Times, serif;
+    color: #ffffff;
+}
+
+header .container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header .logo{
+    margin-left: 5px;
+    color: var(--vermelho);
+    font-family: 'Arial Black', Times;
+    font-size: 40px;
+}
+
+header nav a{
+    text-decoration: none;
+    color: #AAA;
+    margin-right: 10px;
+}
+
+header nav a:hover{
+    color: #fff;
+}
+
+/* Filme Princial*/
+.pitch-perfect {
+    font-size: 16px;
+    display: flex;
+    
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.filme-principal .titulo{
+    margin-top: 5%;
+    font-size: 40px;
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+    height: auto;
+    background: linear-gradient(rgba(0,0,0,.30), rgba(0,0,0,.30)100%);
+    
+}
+
+.botao{
+    background-color: #E50914;
+    border: none;
+    color: #ffffff;
+    padding: 15px 30px;
+    margin-top: 5%;
+    margin-right: 15px;
+    font-size: 14px;
+    cursor: pointer;
+    transition: .3s ease all;
+}
+
+.botao:hover{
+    background-color: #ffffff;
+    color: #000000;
+}
+
+.botao i{
+    margin-right: 7px;
+}
+
+.container{
+    margin-left: 20px;
+}
+
+.filme-principal .container{
+    width: 70%;
+}
+
+.box-posters{
+    height: 100%;
+    width: 100%;
+    display: block;
+    cursor: pointer;
+}
+
+.carrossel-posters{
+    margin: 50px 10px;
+}
+
+.titulos-carrossel{
+    margin: 10px 10px;
+}
+
+
+.sinopse .sinopse-title{
+    margin: 50px 10px 10px; 
+}
+
+.sinopse .descricao{
+    margin: 10px 10px;
+
+}
+
+.sinopse .informacoes{
+    margin: 15px 10px;
+
+}
+
+.item .cast{
+    text-align: center;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.informacoes{
+    margin: 50px 10px 10px; 
+    font-size: 16px;
+}

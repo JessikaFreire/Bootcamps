@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="pt_br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style/option-selected.css">
+
+    <!--Responsividade-->
+    
+    <link rel="stylesheet" href="style/responsive.css">
+    
+    <!--Owl CSS-->
+    <link rel="stylesheet" href="style/owl/owl.carousel.min.css">
+    <link rel="stylesheet" href="style/owl/owl.theme.default.min.css">
+    
+    <title>JESSFLIX</title>   
+</head>
+
+<body>
+    <header>
+        <div class="container">
+            <h2 class="logo">JESSFLIX</h2>
+            <nav>
+                <a href="index.html">Início</a>
+                <a href="#">Séries</a>
+                <a href="#">Filmes</a>
+                <a href="#">Documentários</a>
+                <a href="#">Minha Lista</a>
+            </nav>
+        </div>
+    </header>
+
+        <main>
+            <div class="filme-principal">
+                <img class="" src="./img/capas/mon-inconnue-capa.jpg" />
+                <div class="container">
+                    <h3 class="titulo">Amor à Segunda Vista</h3>
+                    <div class="botoes">
+                        <button role="button" class="botao"><i class="fas fa-play"></i>
+                        ASSISTIR AGORA
+                        </button>
+                        <button role="button" class="botao" onclick=" window.open('https://www.youtube.com/watch?v=k4YDg6DDuJY')"><i class="fas fa-video"></i>
+                        ASSISTIR TRAILER
+                        </button>  
+                        <button role="button" class="botao" title="Adicionar aos Favoritos"><i class="fas fa-heart"></i>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </main>
+
+        <div class="sinopse">
+            <h2 class="sinopse-title">SINOPSE</h2>
+            <p class="descricao">Da noite para o dia, Raphaël se vê mergulhado num mundo no qual nunca encontrou sua esposa Olivia. Como ele vai fazer para reconquistar a mulher da sua vida, que se tornou uma perfeita desconhecida?</p>
+            
+            <p class="informacoes"><strong>Ano:</strong> 2019</p>
+            <p class="informacoes"><strong>Duração:</strong> 1h57m</p>
+            <p class="informacoes"><strong>Diretor:</strong> Hugo Gélin</p>
+
+        </div>
+
+        <div class="carrossel-posters">
+            <h2 class="titulos-carrossel">Elenco</h2>
+            <div class="owl-cast owl-carousel owl-theme"> 
+
+                <div class="item">
+                    <img class="box-posters" src="img/cast/francois-civil.jpg" alt="François Civil" srcset="">
+                    <p class="cast">François Civil</p>
+                </div>
+                <div class="item">
+                    <img class="box-posters" src="img/cast/josephine-japy.jpg" alt="Joséphine Japy" srcset="">
+                    <p class="cast">Joséphine Japy</p>
+                </div>
+                <div class="item">
+                    <img class="box-posters" src="img/cast/benjamin-lavernhe.jpg" alt="Benjamin Lavernhe" srcset="">
+                    <p class="cast">Benjamin Lavernhe</p>
+                </div>      
+
+            </div>
+        </div>
+
+        <div class="carrossel-posters">
+            <h2 class="titulos-carrossel">Filmes Similares</h2>
+            <div class="owl-options owl-carousel owl-theme"> 
+
+                <div class="item">
+                    <a href="pitch-perfect.html">
+                    <img class="box-posters" src="img/posters/pitch-perfect-poster.jpg" alt="Capa do filme A Escolha Perfeita" srcset="">
+                    </a>
+                </div>
+                <div class="item">
+                    <a href="pitch-perfect-2.html">
+                    <img class="box-posters" src="img/posters/pitch-perfect-2-poster.jpg" alt="Capa do filme A Escolha Perfeita 2" srcset="">
+                    </a>
+                </div>
+                <div class="item">
+                    <a href="pitch-perfect-3.html">
+                    <img class="box-posters" src="img/posters/pitch-perfect-3-poster.jpg" alt="Capa do filme A Escolha Perfeita 3" srcset="">
+                    </a>
+                </div>
+                <div class="item">
+                    <a href="just-like-heaven.html">
+                    <img class="box-posters" src="img/posters/just-like-heaven-poster.jpg" alt="Capa do filme E Se Fosse Verdade" srcset="">
+                    </a>
+                </div>
+                <div class="item">
+                    <a href="just-my-luck.html">
+                    <img class="box-posters" src="img/posters/just-my-luck-poster.jpg" alt="Capa do filme Sorte no Amor" srcset="">
+                    </a>
+                </div>
+                <div class="item">
+                    <a href="devil-wears-prada.html">
+                    <img class="box-posters" src="img/posters/devil-wears-prada-poster.jpg" alt="Capa do filme O Diabo Veste Prada" srcset="">
+                    </a>
+                </div>   
+
+            </div>
+        </div>
+
+
+        <script src="https://kit.fontawesome.com/d881bf840b.js" crossorigin="anonymous"></script>
+        <script src="js/owl/jquery.min.js"></script>
+        <script src="js/owl/owl.carousel.min.js"></script>
+        <script src="js/setup.js"></script>
+</body>
+</html>
