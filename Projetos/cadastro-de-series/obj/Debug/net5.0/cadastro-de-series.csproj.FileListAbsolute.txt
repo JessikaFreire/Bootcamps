@@ -1,0 +1,16 @@
+C:\Me\GitHub\Bootcamps\Projetos\cadastro-de-series\obj\Debug\net5.0\cadastro-de-series.csproj.AssemblyReference.cache
+C:\Me\GitHub\Bootcamps\Projetos\cadastro-de-series\obj\Debug\net5.0\cadastro-de-series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Me\GitHub\Bootcamps\Projetos\cadastro-de-series\obj\Debug\net5.0\cadastro-de-series.AssemblyInfoInputs.cache
+C:\Me\GitHub\Bootcamps\Projetos\cadastro-de-series\obj\Debug\net5.0\cadastro-de-series.AssemblyInfo.cs
+C:\Me\GitHub\Bootcamps\Projetos\cadastro-de-series\obj\Debug\net5.0\cadastro-de-series.csproj.CoreCompileInputs.cache
+C:\Me\GitHub\Bootcamps\Projetos\cadastro-de-series\bin\Debug\net5.0\cadastro-de-series.exe
+C:\Me\GitHub\Bootcamps\Projetos\cadastro-de-series\bin\Debug\net5.0\cadastro-de-series.deps.json
+C:\Me\GitHub\Bootcamps\Projetos\cadastro-de-series\bin\Debug\net5.0\cadastro-de-series.runtimeconfig.json
+C:\Me\GitHub\Bootcamps\Projetos\cadastro-de-series\bin\Debug\net5.0\cadastro-de-series.runtimeconfig.dev.json
+C:\Me\GitHub\Bootcamps\Projetos\cadastro-de-series\bin\Debug\net5.0\cadastro-de-series.dll
+C:\Me\GitHub\Bootcamps\Projetos\cadastro-de-series\bin\Debug\net5.0\ref\cadastro-de-series.dll
+C:\Me\GitHub\Bootcamps\Projetos\cadastro-de-series\bin\Debug\net5.0\cadastro-de-series.pdb
+C:\Me\GitHub\Bootcamps\Projetos\cadastro-de-series\obj\Debug\net5.0\cadastro-de-series.dll
+C:\Me\GitHub\Bootcamps\Projetos\cadastro-de-series\obj\Debug\net5.0\ref\cadastro-de-series.dll
+C:\Me\GitHub\Bootcamps\Projetos\cadastro-de-series\obj\Debug\net5.0\cadastro-de-series.pdb
+C:\Me\GitHub\Bootcamps\Projetos\cadastro-de-series\obj\Debug\net5.0\cadastro-de-series.genruntimeconfig.cache
