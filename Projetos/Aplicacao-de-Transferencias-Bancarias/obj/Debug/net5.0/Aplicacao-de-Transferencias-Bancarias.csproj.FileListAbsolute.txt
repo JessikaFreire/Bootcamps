@@ -1,0 +1,16 @@
+C:\Me\GitHub\Bootcamps\Projetos\Aplicacao-de-Transferencias-Bancarias\obj\Debug\net5.0\Aplicacao-de-Transferencias-Bancarias.csproj.AssemblyReference.cache
+C:\Me\GitHub\Bootcamps\Projetos\Aplicacao-de-Transferencias-Bancarias\obj\Debug\net5.0\Aplicacao-de-Transferencias-Bancarias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Me\GitHub\Bootcamps\Projetos\Aplicacao-de-Transferencias-Bancarias\obj\Debug\net5.0\Aplicacao-de-Transferencias-Bancarias.AssemblyInfoInputs.cache
+C:\Me\GitHub\Bootcamps\Projetos\Aplicacao-de-Transferencias-Bancarias\obj\Debug\net5.0\Aplicacao-de-Transferencias-Bancarias.AssemblyInfo.cs
+C:\Me\GitHub\Bootcamps\Projetos\Aplicacao-de-Transferencias-Bancarias\obj\Debug\net5.0\Aplicacao-de-Transferencias-Bancarias.csproj.CoreCompileInputs.cache
+C:\Me\GitHub\Bootcamps\Projetos\Aplicacao-de-Transferencias-Bancarias\bin\Debug\net5.0\Aplicacao-de-Transferencias-Bancarias.exe
+C:\Me\GitHub\Bootcamps\Projetos\Aplicacao-de-Transferencias-Bancarias\bin\Debug\net5.0\Aplicacao-de-Transferencias-Bancarias.deps.json
+C:\Me\GitHub\Bootcamps\Projetos\Aplicacao-de-Transferencias-Bancarias\bin\Debug\net5.0\Aplicacao-de-Transferencias-Bancarias.runtimeconfig.json
+C:\Me\GitHub\Bootcamps\Projetos\Aplicacao-de-Transferencias-Bancarias\bin\Debug\net5.0\Aplicacao-de-Transferencias-Bancarias.runtimeconfig.dev.json
+C:\Me\GitHub\Bootcamps\Projetos\Aplicacao-de-Transferencias-Bancarias\bin\Debug\net5.0\Aplicacao-de-Transferencias-Bancarias.dll
+C:\Me\GitHub\Bootcamps\Projetos\Aplicacao-de-Transferencias-Bancarias\bin\Debug\net5.0\ref\Aplicacao-de-Transferencias-Bancarias.dll
+C:\Me\GitHub\Bootcamps\Projetos\Aplicacao-de-Transferencias-Bancarias\bin\Debug\net5.0\Aplicacao-de-Transferencias-Bancarias.pdb
+C:\Me\GitHub\Bootcamps\Projetos\Aplicacao-de-Transferencias-Bancarias\obj\Debug\net5.0\Aplicacao-de-Transferencias-Bancarias.dll
+C:\Me\GitHub\Bootcamps\Projetos\Aplicacao-de-Transferencias-Bancarias\obj\Debug\net5.0\ref\Aplicacao-de-Transferencias-Bancarias.dll
+C:\Me\GitHub\Bootcamps\Projetos\Aplicacao-de-Transferencias-Bancarias\obj\Debug\net5.0\Aplicacao-de-Transferencias-Bancarias.pdb
+C:\Me\GitHub\Bootcamps\Projetos\Aplicacao-de-Transferencias-Bancarias\obj\Debug\net5.0\Aplicacao-de-Transferencias-Bancarias.genruntimeconfig.cache

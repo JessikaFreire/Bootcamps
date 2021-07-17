@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Aplicacao-de-Transferencias-Bancarias/1.0.0": {
+        "runtime": {
+          "Aplicacao-de-Transferencias-Bancarias.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aplicacao-de-Transferencias-Bancarias/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
