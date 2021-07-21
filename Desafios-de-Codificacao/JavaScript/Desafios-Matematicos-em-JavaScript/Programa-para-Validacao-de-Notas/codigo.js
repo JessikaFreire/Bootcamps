@@ -30,4 +30,42 @@ Exemplo de Entrada		Exemplo de Saída
 2
 ---------------------------------------------------
 */
+let notas = [];
+let nota = 0;
+let opcao = 0;
 
+while(opcao != 2)
+{
+  nota = parseFloat(gets());
+  
+  if((nota>=0) && (nota<=10))
+  {
+    notas.push(nota);
+    
+    if(notas.length == 2)
+    {
+      total = parseFloat(notas[0]) + parseFloat(notas[1])
+      media = (total / 2).toFixed(2);
+      console.log("media = "+ media)
+      notas.length = 0;
+      opcao = 0;
+      
+      while(opcao != 1)
+      {
+        
+        if(opcao==2)
+        {
+          break
+        }
+        
+        console.log('novo calculo (1-sim 2-nao)')
+        opcao = +gets();
+      }
+    }
+  }
+  
+  else
+  {
+    console.log('nota invalida');
+  }  
+}
