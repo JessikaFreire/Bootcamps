@@ -1,4 +1,4 @@
-package com.dio.controle.swagger;
+package com.dio.projeto.swagger;
 
 
 import java.util.Collections;
@@ -19,12 +19,12 @@ import java.util.Collections;
 
 @Configuration
 @EnableSwagger2
-public class SwaggerCongig {
+public class SwaggerConfig {
     @Bean
     public Docket apiAdmin() {
         return new Docket(DocumentationType.SWAGGER_2)
                 .select()
-                .apis(RequestHandlerSelectors.basePackage("com.dio.controle"))
+                .apis(RequestHandlerSelectors.basePackage("com.dio.projeto"))
                 .paths(PathSelectors.ant("/**"))
                 .build()
                 .apiInfo(apiInfo())
@@ -51,5 +51,4 @@ public class SwaggerCongig {
                 .build();
     }
 }
-
 
