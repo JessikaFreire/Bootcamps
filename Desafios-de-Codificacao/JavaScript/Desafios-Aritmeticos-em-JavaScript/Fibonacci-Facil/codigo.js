@@ -14,37 +14,26 @@ Exemplo de Entrada      Exemplo de Saída
 ----------------------------------------
 */
 
-var i;
-var fib = []; 
-
-fib[0] = 0;
-fib[1] = 1;
-for (i = 2; i <= 10; i++) {
-  fib[i] = fib[i - 2] + fib[i - 1];
-  console.log(fib[i]);
-}
-
-
-let valor = parseInt(gets());
-
-let arr = [];
-
-const fibonacci = (n) => 
-{
-  if (n < 2) 
-  {
-    return n;
+const input = parseInt(gets());
+const fib = n => {
+  
+  if (n <= 1) {
+    return [0, 1];
   } 
-        
-  else 
-  {
-    return fibonacci(n - 1) + fibonacci(n - 2);
+  
+  else {
+    const s = fib(n - 1);
+    s.push(s[s.length - 1] + s[s.length - 2]);
+    return s;
   }
-}
+};
 
-  for (let i = 0; i < valor; i++) 
-  {
-    arr.push(fibonacci(i));
+  if(input === 1){
+    console.log('0')
   }
 
-console.log(arr.join(' '));
+  else if(input > 0 && input < 46){
+    const index = Number(input) - 1;
+    const sequence = fib(index).join(" ");
+    console.log(sequence);
+  }
